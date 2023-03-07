@@ -14,14 +14,6 @@
 	path = cltl-eliza
 	url = https://github.com/leolani/cltl-eliza.git
 	branch = main
-[submodule "cltl-asr"]
-	path = cltl-asr
-	url = https://github.com/leolani/cltl-asr.git
-	branch = main
-[submodule "cltl-vad"]
-	path = cltl-vad
-	url = https://github.com/leolani/cltl-vad.git
-	branch = main
 [submodule "cltl-chat-ui"]
 	path = cltl-chat-ui
 	url = https://github.com/leolani/cltl-chat-ui.git
