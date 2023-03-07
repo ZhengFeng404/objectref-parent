@@ -45,3 +45,7 @@
 [submodule "objectref-app"]
 	path = objectref-app
 	url = https://github.com/numblr/objectref-app.git
+[submodule "cltl-object-recognition"]
+	path = cltl-object-recognition
+	url = https://github.com/leolani/cltl-object-recognition.git
+	branch = main
