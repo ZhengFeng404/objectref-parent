@@ -42,3 +42,6 @@
 	path = cltl-emissor-data
 	url = https://github.com/leolani/cltl-emissor-data.git
 	branch = main
+[submodule "objectref-app"]
+	path = objectref-app
+	url = https://github.com/numblr/objectref-app.git
