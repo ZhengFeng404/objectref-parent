@@ -5,10 +5,11 @@ project_name ?= "objectref"
 project_components = $(addprefix ${project_root}/, \
 		emissor \
                 objectref-app \
+                objectref \
 		cltl-requirements \
 		cltl-combot \
 		cltl-backend \
-		cltl-leolani \
+		cltl-object-recognition \
 		cltl-chat-ui \
 		cltl-emissor-data)
 
