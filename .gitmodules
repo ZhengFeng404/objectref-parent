@@ -39,6 +39,6 @@
 	url = https://github.com/leolani/cltl-object-recognition.git
 	branch = main
 [submodule "cltl-leolani"]
-	path = cltl-leolani
+	path = objectref
 	url = https://github.com/leolani/cltl-leolani.git
 	branch = main
