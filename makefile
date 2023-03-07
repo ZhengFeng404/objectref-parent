@@ -8,7 +8,6 @@ project_components = $(addprefix ${project_root}/, \
 		cltl-requirements \
 		cltl-combot \
 		cltl-backend \
-		cltl-eliza \
 		cltl-leolani \
 		cltl-chat-ui \
 		cltl-emissor-data)

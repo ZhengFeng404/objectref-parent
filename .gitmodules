@@ -10,10 +10,6 @@
 	path = cltl-backend
 	url = https://github.com/leolani/cltl-backend.git
 	branch = main
-[submodule "cltl-eliza"]
-	path = cltl-eliza
-	url = https://github.com/leolani/cltl-eliza.git
-	branch = main
 [submodule "cltl-chat-ui"]
 	path = cltl-chat-ui
 	url = https://github.com/leolani/cltl-chat-ui.git
