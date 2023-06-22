@@ -32,7 +32,7 @@
 	branch = main
 [submodule "objectref-app"]
 	path = objectref-app
-	url = https://github.com/numblr/objectref-app.git
+	url = https://github.com/ZhengFeng404/objectref-app.git
 	branch = main
 [submodule "cltl-object-recognition"]
 	path = cltl-object-recognition
@@ -40,5 +40,5 @@
 	branch = main
 [submodule "objectref"]
 	path = objectref
-	url = https://github.com/numblr/objectref.git
+	url = https://github.com/ZhengFeng404/objectref.git
 	branch = main
